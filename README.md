@@ -13,6 +13,6 @@ How To Play:
 WASD to move
 Left Click to shoot
 
-Sources: N/A
+Sources: N/A.
 
 This game was built with [NEST](NEST.md).
